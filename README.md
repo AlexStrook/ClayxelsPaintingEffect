@@ -2,6 +2,8 @@
 
 ### Requires Clayxels 
 
+NOTE : after importing clayxels in your project, Right Click>Reimport the Tree_Scene project folder, it will fix some reference issues
+
 This project contains a scene that uses Clayxels, and a custom shader made with Amplify Shader Editor. This is by no mean a realtime friendly solution, this was a fun artistic experiment, but if you want to play with it !
 
 ![tree](./readme_Assets/001.jpg)
