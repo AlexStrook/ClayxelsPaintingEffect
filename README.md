@@ -4,7 +4,7 @@
 
 NOTE : -after importing clayxels in your project, Right Click>Reimport the Tree_Scene project folder, it will fix some reference issues
 
--There seems to be compatibility issue with Unity 2019.4.  I only test this project on 2019.3 where it seems to work fine, i will try to fix this 
+-There seems to be compatibility issue with Unity 2019.4.  I only tested this project on 2019.3 where it seems to work fine, i will try to fix this 
 
 
 This project contains a scene that uses Clayxels, and a custom shader made with Amplify Shader Editor. This is by no mean a realtime friendly solution, this was a fun artistic experiment, but if you want to play with it !
